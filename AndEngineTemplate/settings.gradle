@@ -1,0 +1,3 @@
+include ':andEngine4', ':AndEngineDebugDrawExtension'
+include ':andEnginePhysicsBox2DExtension'
+include ':GameModule'

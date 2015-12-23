@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/andEngineDebugDrawExtension/AndEngineDebugDrawExtension.iml" filepath="$PROJECT_DIR$/andEngineDebugDrawExtension/AndEngineDebugDrawExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndEngineTemplate.iml" filepath="$PROJECT_DIR$/AndEngineTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameModule/GameModule.iml" filepath="$PROJECT_DIR$/GameModule/GameModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngine4/andEngine4.iml" filepath="$PROJECT_DIR$/andEngine4/andEngine4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEnginePhysicsBox2DExtension/andEnginePhysicsBox2DExtension.iml" filepath="$PROJECT_DIR$/andEnginePhysicsBox2DExtension/andEnginePhysicsBox2DExtension.iml" />
+    </modules>
+  </component>
+</project>

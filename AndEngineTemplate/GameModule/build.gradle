@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.2'
+
+    defaultConfig {
+        applicationId "com.epollomes.recklessstuntsracinggame"
+        minSdkVersion 9
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+    compileOptions {
+        encoding "UTF-8"
+    }
+}
+
+dependencies {
+    compile project(':andEngine4')
+    compile project(':andEnginePhysicsBox2DExtension')
+    compile 'com.google.android.gms:play-services-analytics:8.4.0'
+    compile 'com.google.android.gms:play-services-ads:8.4.0'
+    compile project(':AndEngineDebugDrawExtension')
+    compile 'com.android.support:support-v4:23.1.1'
+}
