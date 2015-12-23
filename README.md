@@ -19,8 +19,7 @@ dependencies {
 
 Keeping the lirary and not using them causes your apk to have a bigger size, and cause building and running to become slow.
 
-### Make sure to "Gradle Sync + Clean + Build + Make" your project before trying to run the project
+### Make sure to "Gradle Sync + Clean + Build + Make" your project before running the project
 
 Cheers : )
-
 Apps built with AndEngine can be found in my dev account *epollomes*, feel free to check them out https://goo.gl/f5YBwy. Thanks 
