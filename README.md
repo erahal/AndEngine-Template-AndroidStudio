@@ -16,3 +16,5 @@ dependencies {
     compile 'com.android.support:support-v4:23.1.1'
 }
 ```
+
+##! Make sure to "Gradle Sync + Clean + Build + Make" your project before trying to run 
