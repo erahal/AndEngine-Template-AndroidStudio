@@ -1,5 +1,5 @@
 # AndEngine-Template-AndroidStudio
-This is a Template Project for AndEngine, to start developing a game with Andengine, Included are the Box2D extension and the DebugDraw to debug the physics
+A lot of people are havving problem integrating AndEngine with AndroidStudio. So this is a Template Project for AndEngine, to start developing a game with Andengine. Included are the Box2D extension and the DebugDraw to debug the physics. The project contains a MainActivity.Java Class where a simple image have been used to put a sprite on the screen.
 
 **This project is compiled with:**
 * compileSdkVersion 23
